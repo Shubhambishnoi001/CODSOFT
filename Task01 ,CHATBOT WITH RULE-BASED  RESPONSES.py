@@ -3,7 +3,6 @@ responses = {
     "weather": "The weather in your area is sunny with a high of 35°c.",
     "bye": "Goodbye! Have a nice day!",
 }
-
 while True:
     user_input = input("You: ").lower()  
 
