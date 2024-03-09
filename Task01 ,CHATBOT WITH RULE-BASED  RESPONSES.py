@@ -1,4 +1,3 @@
-
 responses = {
     "hello": "Hello! How can I assist you today?",
     "weather": "The weather in your area is sunny with a high of 35°c.",
