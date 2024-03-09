@@ -34,8 +34,6 @@ class TicTacToe:
 
     def game_over(self):
         return self.is_winner('X') or self.is_winner('O') or self.is_full()
-
-
 class AIPlayer:
     def __init__(self, symbol):
         self.symbol = symbol
